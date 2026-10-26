@@ -9,13 +9,13 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/USERNAME">
+  <a href="https://github.com/shanaayakhare">
     <img src="https://img.shields.io/badge/GitHub-Profile-9B59B6?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Profile"/>
   </a>
-  <a href="https://www.linkedin.com/">
+  <a href="https://www.linkedin.com/in/shanaaya-khare">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-EC4899?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="https://leetcode.com/">
+  <a href="https://leetcode.com/u/shanaayakhare">
     <img src="https://img.shields.io/badge/LeetCode-Practice-FF9F43?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode"/>
   </a>
 </p>
@@ -81,18 +81,13 @@ Researching a unified framework for evaluating machine-translated text using lex
 
 **Focus:** NLP · Machine Translation · Evaluation Metrics · Research
 
-### 🏡 AI-Powered Architectural Design Platform
-Exploring a platform that helps users visualize home designs based on their preferences, requirements, and budget.
-
-**Focus:** AI Applications · Personalization · Web Development
-
 ---
 
 ## 📊 GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&theme=radical&hide_border=true&title_color=F48FB1" height="165" alt="GitHub statistics"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME&layout=compact&theme=radical&hide_border=true" height="165" alt="Most used languages"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=shanaayakhare&show_icons=true&theme=radical&hide_border=true&title_color=F48FB1" height="165" alt="GitHub statistics"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shanaayakhare&layout=compact&theme=radical&hide_border=true" height="165" alt="Most used languages"/>
 </p>
 
 ---
@@ -100,7 +95,7 @@ Exploring a platform that helps users visualize home designs based on their pref
 ## 🧩 Problem Solving
 
 <p align="center">
-  <a href="https://leetcode.com/">
+  <a href="https://leetcode.com/u/shanaayakhare">
     <img src="https://img.shields.io/badge/LeetCode-My_Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
   </a>
 </p>
@@ -112,7 +107,7 @@ Practicing data structures and algorithms, strengthening problem-solving skills,
 ## 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/USERNAME/USERNAME/output/github-contribution-grid-snake.svg" alt="GitHub contribution snake"/>
+  <img src="https://raw.githubusercontent.com/shanaayakhare/shanaayakhare/output/github-contribution-grid-snake.svg" alt="GitHub contribution snake"/>
 </p>
 
 ---
@@ -122,7 +117,7 @@ Practicing data structures and algorithms, strengthening problem-solving skills,
 I'm interested in AI projects, software engineering opportunities, research, and collaborations.
 
 <p align="center">
-  <a href="https://www.linkedin.com/">
+  <a href="https://www.linkedin.com/in/shanaaya-khare/">
     <img src="https://img.shields.io/badge/Connect_on_LinkedIn-EC4899?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 </p>
