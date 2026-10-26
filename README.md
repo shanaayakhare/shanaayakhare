@@ -66,6 +66,11 @@ I'm a Computer Science student passionate about AI, machine learning, and softwa
 
 ## 🚀 Featured Projects
 
+### 🌐 UniMTScore — Machine Translation Evaluation
+Researching a unified framework for evaluating machine-translated text using lexical, syntactic, and semantic signals.
+
+**Focus:** NLP · Machine Translation · Evaluation Metrics · Research
+
 ### 🔐 SecuOS — Security-Focused Operating System Prototype
 Exploring operating-system security through sandboxing, access restrictions, activity monitoring, and security logging.
 
@@ -75,11 +80,6 @@ Exploring operating-system security through sandboxing, access restrictions, act
 An AI-based application concept for generating personalized, cartoon-style stickers from photos or text prompts.
 
 **Focus:** Generative AI · Image Generation · Application Development
-
-### 🌐 UniMTScore — Machine Translation Evaluation
-Researching a unified framework for evaluating machine-translated text using lexical, syntactic, and semantic signals.
-
-**Focus:** NLP · Machine Translation · Evaluation Metrics · Research
 
 ---
 
