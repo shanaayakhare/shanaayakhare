@@ -1,4 +1,4 @@
-# ✨ Hey, I'm a Computer Science Engineer, exploring the world of AI & Technology!
+# ✨ Hey, I'm a Software Engineer, exploring the world of AI & Technology!
 
 <p align="center">
   <b>Artificial Intelligence • Machine Learning • Software Engineering</b>
