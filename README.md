@@ -1,4 +1,4 @@
-# ✨ Hey, I'm a CSE Student & AI Developer!
+# ✨ Hey, I'm a Computer Science Engineer, exploring the world of AI & Technology!
 
 <p align="center">
   <b>Artificial Intelligence • Machine Learning • Software Engineering</b>
