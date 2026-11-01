@@ -85,8 +85,6 @@ An AI-based application concept for generating personalized, cartoon-style stick
 
 ## 📊 GitHub Statistics
 
-## 📊 GitHub Statistics
-
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=shanaayakhare&show_icons=true&theme=tokyonight&hide_border=true" height="180" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shanaayakhare&layout=compact&theme=tokyonight&hide_border=true" height="180" />
